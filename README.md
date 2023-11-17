@@ -6,7 +6,15 @@ According to Mailchimp (n.d.), "Customer churn is the percentage of customers wh
 It is an essential concern of a business as its customers determine its revenue and profit. When a company knows what would cause its customers to stop purchasing their products or services, it can make careful decisions to prevent that problem.
 
 # Functionalities
-
+My project is composed of the following structure:
+  - Importing relevant libraries such as pandas, TensorFlow, LabelEncoder, GridSearchCV and joblib
+  - Importing and displaying the dataset
+  - Encoding categorical columns to type int or float
+  - Scaling the data
+  - Using feature importance through RandomForestClassifier to determine the relevance of the various features
+  - Implementing a Multi-Layer Perceptor model and passing it through GridSearchCV to optimise its training performance
+  - Selecting the best estimators and using them to test the model's performance
+  - Deploying the model using Streamlite and allowing users to input their own feature values
 
 # Link to Deployment Video
 Find the link to my video utilising my deployed model here:
