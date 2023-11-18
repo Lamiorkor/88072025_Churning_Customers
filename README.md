@@ -18,7 +18,7 @@ My project is composed of the following structure:
 
 ## Link to Deployment Video
 Find the link to my video utilising my deployed model here:
-
+https://youtu.be/TIzAEzuGpvY
 
 ## References
 Customer churn: definition and how to Reduce it | Mailchimp. (n.d.). Mailchimp. https://mailchimp.com/resources/customer-churn/#:~:text=Customer%20churn%20is%20the%20percentage,another%20purchase%20from%20your%20business.
